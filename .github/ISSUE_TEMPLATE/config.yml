@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 質問・相談
+    url: https://github.com/hcloud-ltd/hstorage-app/discussions/categories/q-a
+    about: バグや機能リクエスト以外の質問はディスカッションへお願いします
+  - name: アイデア・雑談
+    url: https://github.com/hcloud-ltd/hstorage-app/discussions/categories/ideas
+    about: 気軽なアイデアや雑談はこちらへ
